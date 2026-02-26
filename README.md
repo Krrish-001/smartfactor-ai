@@ -38,7 +38,7 @@ Fully containerized deployment
 Python, PyTorch, HuggingFace Transformers, PEFT, FAISS, OpenCV, FastAPI, Docker
 
 🔹 Quick Start
-git clone https://github.com/yourname/smartfactory-ai
+git clone https://github.com/Krrish-001/smartfactory-ai
 cd smartfactory-ai
 pip install -r requirements.txt
 🔹 Run API
